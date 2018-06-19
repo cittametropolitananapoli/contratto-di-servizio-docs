@@ -11,6 +11,9 @@ Service Level Agreement SLA Contratto di Servizio interno
 
 **Data di rilascio:** 20/09/2017
 
++----------------------------------+
+|**Città Metropolitana di Napoli** |
++----------------------------------+
 
 |image1|
 
