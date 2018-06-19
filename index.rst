@@ -1,6 +1,7 @@
-*Service Level Agreement SLA Contratto di Servizio interno*
+Service Level Agreement SLA Contratto di Servizio interno
+=========================================================
 
-|image0|\|image1|
+|image0|
 
 **Contratto di Servizio interno – Pubblicazione Portale e InfoNet**
 
@@ -9,6 +10,9 @@
 **Autore:** Ufficio Relazioni con il Pubblico
 
 **Data di rilascio:** 20/09/2017
+
+
+|image1|
 
 Questo documento contiene il contratto di servizio SLA - Service Level Agreement, per i fruitori del servizio Portale Utente, basato su CRM vtiger. Il Portale Utente è un servizio ad uso esclusivo dei redattori interni, per la gestione delle richieste di pubblicazione sul sito istituzionale della Città Metropolitana di Napoli.
 
@@ -28,5 +32,5 @@ Questo documento contiene il contratto di servizio SLA - Service Level Agreement
    :height: 0.75625in
    
 .. |image1| image:: ./_docs/img/img1.jpeg
-   :width: 0.6in
-   :height: 0.79097in
+   :width: 0.4in
+   :height: 0.5in
