@@ -27,4 +27,4 @@ Questo documento contiene il contratto di servizio SLA - Service Level Agreement
    :width: 0.75972in
    :height: 0.75625in
    
-.. |image1| image:: ./_docs/img/img1.jpg
+.. |image1| image:: ./_docs/img/img1.jpeg
