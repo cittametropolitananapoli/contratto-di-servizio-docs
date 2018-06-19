@@ -1,6 +1,6 @@
 *Service Level Agreement SLA Contratto di Servizio interno*
 
-|image0|/|image1|
+|image0|\|image1|
 
 **Contratto di Servizio interno – Pubblicazione Portale e InfoNet**
 
@@ -28,3 +28,5 @@ Questo documento contiene il contratto di servizio SLA - Service Level Agreement
    :height: 0.75625in
    
 .. |image1| image:: ./_docs/img/img1.jpeg
+   :width: 0.6in
+   :height: 0.79097in
