@@ -10,7 +10,7 @@ Questo documento contiene il contratto di servizio SLA - Service Level Agreement
 <http://http://portaleutente-manuale.readthedocs.io/it/latest/>`_.
 
 
-|logo_urp| Ufficio Per le Relazioni con il Pubblico
+|logo_urp| *Ufficio Per le Relazioni con il Pubblico*
 
 :Proprietà: Città Metropolitana di Napoli
 :Publisher: Ufficio Relazioni con il Pubblico
