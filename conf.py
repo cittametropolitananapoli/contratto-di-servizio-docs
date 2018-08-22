@@ -7,7 +7,7 @@ settings_copyright_copyleft = 'Citta Metropolitana di Napoli'
 settings_editor_name = 'Ufficio Relazioni con il Pubblico'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: 1.0'
-settings_file_name = 'contratto-di-servizio-docs'
+settings_file_name = 'portaleutente-sla-docs'
 
 
 import sys
