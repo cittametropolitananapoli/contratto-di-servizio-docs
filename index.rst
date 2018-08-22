@@ -20,12 +20,12 @@ Questo documento contiene il contratto di servizio SLA - Service Level Agreement
   :numbered:
   :hidden:
 
-  index/1.Panoramica-sull-accordo.rst
-  index/2.Obiettivi-e-obiettivi.rst
-  index/3.Partecipanti.rst
-  index/4.Revisione-periodica.rst
-  index/5.Accordo-di-servizio.rst
-  index/6.Gestione-del-servizio.rst
+  index/Panoramica-sull-accordo.rst
+  index/Obiettivi-e-obiettivi.rst
+  index/Partecipanti.rst
+  index/Revisione-periodica.rst
+  index/Accordo-di-servizio.rst
+  index/Gestione-del-servizio.rst
 
 .. |logo_cmna| image:: assets/images/logo_cmna.png
    :width: 0.6in
