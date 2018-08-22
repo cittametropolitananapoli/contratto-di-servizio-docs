@@ -7,7 +7,7 @@ Service Level Agreement SLA Contratto di Servizio interno
 .. highlights::  
 
 Questo documento contiene il contratto di servizio SLA - Service Level Agreement, per i fruitori del servizio Portale Utente, basato su CRM vtiger. Il Portale Utente è un servizio ad uso esclusivo dei redattori interni, per la gestione delle richieste di pubblicazione sul sito istituzionale della Città Metropolitana di Napoli. Il manuale del Portale Utente è consultabile `Qui
-<http://http://portaleutente-manuale.readthedocs.io/it/latest/>`_.
+<https://docs-italia-staging.teamdigitale.it/cittametropolitananapoli/man-crm/portaleutente-manuale-docs/it/master/>`_.
 
 
 |logo_urp| *Ufficio Per le Relazioni con il Pubblico*
