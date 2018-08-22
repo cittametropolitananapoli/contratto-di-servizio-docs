@@ -1,5 +1,5 @@
-1. Panoramica sull'accordo
-==========================
+Panoramica sull'accordo
+=======================
 
 Questo Accordo rappresenta un Contratto di Livello di Servizio ("SLA" o "Contratto") tra **l’Ufficio per le Relazioni con il Pubblico** e gli **Utenti interni responsabili delle pubblicazioni** per la fornitura di servizi necessari per supportare e sostenere le pubblicazioni e gli aggiornamenti sul Portale Istituzionale e sulla InfoNet
 
