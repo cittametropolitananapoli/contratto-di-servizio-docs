@@ -19,7 +19,6 @@ Questo documento contiene il contratto di servizio SLA - Service Level Agreement
 .. toctree::
   :maxdepth: 3
   :numbered:
-  :hidden:
 
   index/Panoramica-sull-accordo.rst
   index/Obiettivi-e-obiettivi.rst
