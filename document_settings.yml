@@ -1,7 +1,7 @@
 --- 
 document:
   name: "Contratto di Servizio Portale Utente CRM"
-  description: "Questo documento contiene il contratto di servizio SLA - Service Level Agreement, per i fruitori del servizio Portale Utente, basato su CRM vtiger. Il Portale Utente è un servizio per la gestione delle richieste di pubblicazione sul sito istituzionale della Città Metropolitana di Napoli."
+  description: "Questo documento contiene il contratto di servizio SLA - Service Level Agreement, per i fruitori del servizio Portale Utente, basato su CRM vtiger."
   tags: 
     - "portale utente"
     - "crm"
